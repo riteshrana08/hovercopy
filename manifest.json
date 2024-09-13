@@ -1,0 +1,18 @@
+{
+    "manifest_version" : 3,
+    "name": "HoverColorCopy",
+    "description":"HoverColorCopy is a powerful Chrome extension that simplifies the process of identifying and copying colors from any component on a webpage. With just a single click, you can effortlessly retrieve the color of any element as you hover over it, making it an indispensable tool for web developers, designers, and enthusiasts alike.",
+    "version" : "1.0",
+    "action" : {
+        "default_popup" : "index.html"
+    },
+
+    "icons" : {
+        "16" : "icon16.png",
+        "32" : "icon32.png",
+        "48" : "icon48.png",
+        "128" : "icon128.png"
+        
+    }
+
+}
